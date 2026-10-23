@@ -1,4 +1,5 @@
 # BBudgeTrakker
+<img width="1580" height="776" alt="image" src="https://github.com/user-attachments/assets/09a9519c-0129-414c-8962-f83f07c51be2" />
 
 **What can you safely spend before the next payday?**
 
